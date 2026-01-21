@@ -1,4 +1,3 @@
-Proje Açıklaması
 Bu program, C++ dili kullanılarak ikinci düzeyden bir bilinmeyenli denklemlerin (ax^2 + bx + c = 0) köklerini bulmak amacıyla oluşturulmuştur.
 
 Programın Özellikleri:
